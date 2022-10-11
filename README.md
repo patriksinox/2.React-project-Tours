@@ -1,5 +1,5 @@
   <h1>My second React project-Tours</h1>
- <p><strong>React.JS</strong> and<strong>Bootstrap</strong> project. The project is based on the design of instructor <strong>John Smilga</strong> from <strong>Udemy</strong>.
+ <p><strong>React.JS</strong> and <strong>Bootstrap</strong> project. The project is based on the design of instructor <strong>John Smilga</strong> from <strong>Udemy</strong>.
            The idea of the project and the API is his. The code is mine 😊. I used in the Project Vanilla JS with React - useState and useEffect. I also fetched the data from
            John's API.
         </p>
