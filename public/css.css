@@ -1,0 +1,51 @@
+body {
+  box-sizing: border-box;
+  background-color: #f1f5f8;
+}
+h1 {
+  text-decoration: 5px underline #49a6e9;
+}
+article {
+  margin: 20px auto;
+  max-width: 600px;
+  border-radius: 2%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+article img {
+  height: 20rem;
+  width: 100%;
+  max-height: 20rem;
+  object-fit: cover !important;
+}
+.price {
+  background-color: #ebf7ff;
+  color: #49a6e9;
+  border-radius: 5%;
+}
+article h6 {
+  padding: 5px;
+}
+article p {
+  text-indent: 5px;
+  padding: 5px 15px;
+}
+.title {
+  padding: 10px 5px;
+  display: flex;
+  justify-content: space-between;
+}
+.refresh {
+  font-size: 2rem;
+}
+button {
+  background-color: white;
+  color: #49a6e9;
+  margin-left: 5px;
+  border: 0px;
+}
+.popisProjektu {
+  margin: 20px auto;
+  max-width: 600px;
+  font-size: 1.2rem;
+}
