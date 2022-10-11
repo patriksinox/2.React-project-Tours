@@ -12,3 +12,5 @@
           Vanilla JS s Reactom - useState a useEffect. Dáta som fetchnul z
           Johnovej API.
         </p>
+
+https://2react-projekt-tours.netlify.app/
